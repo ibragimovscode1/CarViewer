@@ -1,4 +1,7 @@
 # CarViewer
+![CarViewer](https://user-images.githubusercontent.com/89012665/168767444-66215b1e-f323-4b7e-a26f-69318c16cad2.gif)
+
+
 The first project  of the Hackingwithswift training. In this project, I learned elements and methods such as UITable, UIimage, Filemanager. As a section break challenge, I learned to enlarge the font size, sort the array from smallest to largest.
 
 https://www.hackingwithswift.com/100/16
