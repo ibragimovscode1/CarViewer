@@ -3,6 +3,11 @@
 
 
 The first project  of the Hackingwithswift training. In this project, I learned elements and methods such as UITable, UIimage, Filemanager. As a section break challenge, I learned to enlarge the font size, sort the array from smallest to largest.
+# StoryBoard & Fully Programmatic
+I used both of them and made UI on programmatic side I used SnapKit Framework
+
+
+
 
 https://www.hackingwithswift.com/100/16
 
